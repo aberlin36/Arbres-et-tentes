@@ -1,0 +1,9 @@
+Vous incarnez un gerant de camping et vous devez placer des tentes sur une grille de jeu. 
+
+Au debut du jeu,  certaines cases de la grille contiennent des arbres. 
+Le but est de placer le plus vite possible toutes les tentes sur la grille sachant que :
+
+-	Au pied de chaque arbre il ne doit y avoir qu une seule tente,
+-	Les tentes ne doivent pas se toucher,
+-	Les chiffres en bordure de la grille contiennent le nombre de tentes
+        a placer sur la ligne ou sur la colonne.
